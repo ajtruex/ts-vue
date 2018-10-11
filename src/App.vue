@@ -34,7 +34,7 @@ import HelloWorld from './components/HelloWorld.vue'
 @Component({
   data() {
     return {
-      name: "A"
+      name: ""
     }
   },
   components: {
