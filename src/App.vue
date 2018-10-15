@@ -11,6 +11,7 @@
             <label for="inputName" style="margin-right: 10px; margin-top: 4px;">Name:</label>
           </h2>
           <input
+            v-model="name"
             type="text"
             class="form-control form-control"
             id="inputName"
